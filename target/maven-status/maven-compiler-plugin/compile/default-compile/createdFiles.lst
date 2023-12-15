@@ -1,0 +1,17 @@
+soa\SpringJpaApplication2.class
+soa\dao\ProduitDaoImpl.class
+soa\entities\Categorie.class
+soa\repository\CategorieRepository.class
+soa\entities\Produit.class
+soa\repository\ResponsableRepository.class
+soa\metier\ProduitMetierImpl.class
+soa\SpringJpaApplication.class
+soa\entities\Responsable.class
+soa\controller\ProduitRESTController.class
+soa\dao\IProduitDao.class
+soa\metier\CategorieMetierImpl.class
+soa\repository\StockRepository.class
+soa\repository\ProduitRepository.class
+soa\metier\ProduitMetierInterface.class
+soa\entities\Stock.class
+soa\metier\CategorieMetierInterface.class

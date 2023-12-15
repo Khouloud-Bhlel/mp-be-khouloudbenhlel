@@ -1,0 +1,17 @@
+C:\dev\soa\Workspace\spring-jpa-REST\src\main\java\soa\entities\Produit.java
+C:\dev\soa\Workspace\spring-jpa-REST\src\main\java\soa\repository\ResponsableRepository.java
+C:\dev\soa\Workspace\spring-jpa-REST\src\main\java\soa\SpringJpaApplication2.java
+C:\dev\soa\Workspace\spring-jpa-REST\src\main\java\soa\repository\CategorieRepository.java
+C:\dev\soa\Workspace\spring-jpa-REST\src\main\java\soa\SpringJpaApplication.java
+C:\dev\soa\Workspace\spring-jpa-REST\src\main\java\soa\entities\Responsable.java
+C:\dev\soa\Workspace\spring-jpa-REST\src\main\java\soa\metier\ProduitMetierImpl.java
+C:\dev\soa\Workspace\spring-jpa-REST\src\main\java\soa\metier\CategorieMetierImpl.java
+C:\dev\soa\Workspace\spring-jpa-REST\src\main\java\soa\metier\CategorieMetierInterface.java
+C:\dev\soa\Workspace\spring-jpa-REST\src\main\java\soa\repository\StockRepository.java
+C:\dev\soa\Workspace\spring-jpa-REST\src\main\java\soa\dao\ProduitDaoImpl.java
+C:\dev\soa\Workspace\spring-jpa-REST\src\main\java\soa\entities\Categorie.java
+C:\dev\soa\Workspace\spring-jpa-REST\src\main\java\soa\metier\ProduitMetierInterface.java
+C:\dev\soa\Workspace\spring-jpa-REST\src\main\java\soa\controller\ProduitRESTController.java
+C:\dev\soa\Workspace\spring-jpa-REST\src\main\java\soa\entities\Stock.java
+C:\dev\soa\Workspace\spring-jpa-REST\src\main\java\soa\dao\IProduitDao.java
+C:\dev\soa\Workspace\spring-jpa-REST\src\main\java\soa\repository\ProduitRepository.java

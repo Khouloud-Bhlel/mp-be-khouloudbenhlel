@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mp_soa_gf" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jpa-spring-boot" target="17" />
+      <module name="mp_gf" target="17" />
+      <module name="spring-jpa" target="17" />
+      <module name="spring-jpa-REST" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="jpa-spring-boot" options="-parameters" />
+      <module name="mp_gf" options="-parameters" />
+      <module name="mp_soa_gf" options="-parameters" />
+      <module name="spring-jpa" options="-parameters" />
+      <module name="spring-jpa-REST" options="-parameters" />
+    </option>
+  </component>
+</project>
